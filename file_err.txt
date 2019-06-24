@@ -1,0 +1,1 @@
+java.io.FileNotFoundException: D:\ibaTestTask\test.txt (Не удается найти указанный файл)
